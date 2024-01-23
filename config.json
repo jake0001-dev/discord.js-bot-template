@@ -1,0 +1,10 @@
+{
+    "bot_token" : "token",
+    "bot_activity": {
+        "type": "PLAYING",
+        "text": "text"
+    },
+    "bot_intents" : [
+        
+    ]
+}
